@@ -8,3 +8,13 @@ This repository hosts Jupyter notebook python-based scripts to map and detect th
 
 #### Data pre-processing:
 <li><a href = https://github.com/carrol23/spathodea_script/blob/main/pre-process-at-model.ipynb> Pre-processing </a></li>
+
+### Model script
+These are replicated scripts for each feature dataset scenario (combined (elevation + spectral) and spectral), extracting the pixel values only
+
+#### Spectral-based classification 
+<li><a href = https://github.com/carrol23/spathodea_script/blob/main/at_ws_model-mask-s0-spec-comb-pixel.ipynb> Spectral-based - pixel value training </a></li>
+
+#### Combined classification
+<li><a href = https://github.com/carrol23/spathodea_script/blob/main/at_ws_model-mask-s0-all-comb-mean.ipynb> Combined - pixel value </a></li>
+
